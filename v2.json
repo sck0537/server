@@ -1,0 +1,19 @@
+{
+    "inbounds": [{
+      "port": 9000,
+      "protocol": "vmess",
+      "settings": {
+        "clients": [
+          {
+            "id": "",
+            "level": 1,
+            "alterId": 64
+          }
+        ]
+      }
+    }],
+    "outbounds": [{
+      "protocol": "freedom",
+      "settings": {}
+    }]
+  }
